@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: 개인 맞춤형 맛집 관리 앱 서비스 "진지"
+  role: 서비스 기획자 및 디자이너, 안드로이드 개발자
+  duration: 2022 Jan &mdash; Present
+  # url: "#"
+  description: 사용자가 직접 가 본 식당과 가고 싶은 식당을 나눠서 편의대로 관리할 수 있는 앱 서비스
+
+# Springfield Community Outreach Group
+- project: 제주도 관광 챗봇
+  role: 데이터 셋 관리
+  duration: 2021 &mdash; Present
+  # url: "#"
+  description: 제주도 관광 안내를 위한 챗봇 서비스를 개발. 해당 서비스에서 챗봇에 사용되는 데이터 셋을 분석하고 관리하는 역할을 맡음
